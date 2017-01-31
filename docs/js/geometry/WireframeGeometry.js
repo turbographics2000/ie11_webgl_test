@@ -183,4 +183,4 @@ WireframeGeometry.prototype = Object.create( BufferGeometry.prototype );
 WireframeGeometry.prototype.constructor = WireframeGeometry;
 
 
-export { WireframeGeometry };
+//export { WireframeGeometry };
