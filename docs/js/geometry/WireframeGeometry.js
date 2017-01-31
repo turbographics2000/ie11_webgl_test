@@ -1,5 +1,3 @@
-import { BufferGeometry } from '../core/BufferGeometry';
-import { BufferAttribute } from '../core/BufferAttribute';
 
 /**
  * @author mrdoob / http://mrdoob.com/
