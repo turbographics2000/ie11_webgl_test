@@ -47,7 +47,7 @@ init();
 animate();
 
 function init(){
-	loader.load('obj.json', (geometry, materials) => {
+	loader.load('obj.json', function(geometry, materials) {
 		var wireframe = new THREE.WireframeGeometry(geometry);
 		var lineMat= new THREE.LineBasicMaterial({
 			//モデルの色
